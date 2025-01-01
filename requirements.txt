@@ -1,0 +1,7 @@
+cryptography>=3.4.7
+browser-cookie3>=0.19.1
+secretstorage>=3.3.3
+pycryptodome>=3.19.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+gofile2>=0.9.1 
